@@ -1,0 +1,17 @@
+"D:\IAR\arm\bin\armproc.dll" 
+
+"D:\IAR\arm\bin\armjlink2.dll" 
+
+"E:\download\LQ_MK66_VG白色母版\LQ_MK66_VG白色母版\LQ_MK66 VG主板资料\2 OLED测试例程\Release\Exe\c.out" 
+
+--plugin "D:\IAR\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "D:\IAR\arm\config\debugger\NXP\K6x_Trace.dmac" 
+
+--flash_loader "E:\download\LQ_MK66_VG白色母版\LQ_MK66_VG白色母版\LQ_MK66 VG主板资料\2 OLED测试例程\src\Project_Setting\Linker_Files\FlashK66Fxxx256K.board" 
+
+
+
+

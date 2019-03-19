@@ -1,0 +1,17 @@
+"D:\IAR\arm\bin\armproc.dll" 
+
+"D:\IAR\arm\bin\armjlink2.dll" 
+
+"E:\资料\我的文档\竞赛\飞思卡尔\2018NXP智能车竞赛\car\Debug\Exe\c.out" 
+
+--plugin "D:\IAR\arm\bin\armbat.dll" 
+
+--rtc_enable 
+
+--device_macro "D:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "D:\IAR\arm\config\debugger\NXP\K6x_Trace.dmac" 
+
+
+
+
